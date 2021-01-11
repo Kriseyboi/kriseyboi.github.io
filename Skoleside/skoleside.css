@@ -17,6 +17,12 @@ p{
 	text-align: center;
 }
 
+/* youtube video/ embedded */
+iframe{
+   display: block;
+   margin: 0 auto;
+}
+
 /* de forskjellige delene av nettsiden */
 [class*="topp"] {
 	
