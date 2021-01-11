@@ -33,7 +33,7 @@ iframe{
 }
 
 [class*="bunn"] {
-	padding-top: 10% /* gjør slik at bunnen er 10% av skjermen din lenger ned en allt annet */
+	padding-top: 10%; /* gjør slik at bunnen er 10% av skjermen din lenger ned en allt annet */
 }
 
 /* under her er all koden til meny knappen */
