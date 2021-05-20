@@ -21,6 +21,8 @@ p{
 iframe{
    display: block;
    margin: 0 auto;
+	height: 315;
+	width: 560;
 }
 
 /* de forskjellige delene av nettsiden */
